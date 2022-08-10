@@ -1,5 +1,49 @@
 # Change Log
 
+## 2.2.7
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/progress@2.0.8
+  - @chakra-ui/theme@2.1.6
+  - @chakra-ui/system@2.2.5
+  - @chakra-ui/button@2.0.6
+  - @chakra-ui/media-query@3.2.2
+  - @chakra-ui/menu@2.0.8
+  - @chakra-ui/skeleton@2.0.12
+  - @chakra-ui/slider@2.0.6
+  - @chakra-ui/toast@3.0.5
+  - @chakra-ui/accordion@2.0.8
+  - @chakra-ui/alert@2.0.6
+  - @chakra-ui/avatar@2.0.7
+  - @chakra-ui/breadcrumb@2.0.6
+  - @chakra-ui/checkbox@2.1.5
+  - @chakra-ui/close-button@2.0.6
+  - @chakra-ui/control-box@2.0.6
+  - @chakra-ui/editable@2.0.6
+  - @chakra-ui/form-control@2.0.6
+  - @chakra-ui/icon@3.0.6
+  - @chakra-ui/image@2.0.7
+  - @chakra-ui/input@2.0.6
+  - @chakra-ui/layout@2.1.3
+  - @chakra-ui/modal@2.1.4
+  - @chakra-ui/number-input@2.0.6
+  - @chakra-ui/pin-input@2.0.8
+  - @chakra-ui/popover@2.0.6
+  - @chakra-ui/provider@2.0.12
+  - @chakra-ui/radio@2.0.7
+  - @chakra-ui/select@2.0.6
+  - @chakra-ui/spinner@2.0.6
+  - @chakra-ui/stat@2.0.6
+  - @chakra-ui/switch@2.0.8
+  - @chakra-ui/table@2.0.6
+  - @chakra-ui/tabs@2.0.8
+  - @chakra-ui/tag@2.0.6
+  - @chakra-ui/textarea@2.0.7
+  - @chakra-ui/tooltip@2.0.7
+  - @chakra-ui/visually-hidden@2.0.6
+
 ## 2.2.6
 
 ### Patch Changes
