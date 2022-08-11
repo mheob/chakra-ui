@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.1.5
+
+### Patch Changes
+
+- [#6434](https://github.com/chakra-ui/chakra-ui/pull/6434)
+  [`da7d0cf63`](https://github.com/chakra-ui/chakra-ui/commit/da7d0cf63a693df0a282f9586b7133197a9e53a9)
+  Thanks [@itkrt2y](https://github.com/itkrt2y)! - Fix regression where
+  `localStorageManager` was not exported
+
 ## 2.1.4
 
 ### Patch Changes

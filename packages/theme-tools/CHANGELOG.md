@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.0.8
+
+### Patch Changes
+
+- [`c14010b45`](https://github.com/chakra-ui/chakra-ui/commit/c14010b45e9f472ef85b0c2d9d3aaf9f2e78299c)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix regression
+  where `StyleFunctionProps` type was not exported
+
 ## 2.0.7
 
 ### Patch Changes
